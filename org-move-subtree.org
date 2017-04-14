@@ -1,0 +1,27 @@
+* 1st subtree
+  text content text content
+  text content text content text content
+  text content text content
+  text content text content text content
+  
+** 1st subtree
+   Here is some text, and I want to keep one empty line before next subtree.
+   
+** 2st subtree
+** 3st subtree
+
+* 2nd subtree
+  text content text content
+  text content text content text content
+  text content text content
+  text content text content text content
+   
+* 3rd subtree
+  text content text content
+  text content text content text content
+  text content text content
+  text content text content text content
+
+
+
+  
